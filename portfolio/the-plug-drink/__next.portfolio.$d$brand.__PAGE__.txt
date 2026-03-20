@@ -2,6 +2,6 @@
 2:I[43903,["/fc-ai-dashboard/_next/static/chunks/06g06ivdmyrq3.js","/fc-ai-dashboard/_next/static/chunks/00-csyj9a6t-x.js","/fc-ai-dashboard/_next/static/chunks/133rq7uo7d2_0.js","/fc-ai-dashboard/_next/static/chunks/0l8fbwcqtd8c5.js"],"default"]
 4:I[97367,["/fc-ai-dashboard/_next/static/chunks/06g06ivdmyrq3.js","/fc-ai-dashboard/_next/static/chunks/00-csyj9a6t-x.js","/fc-ai-dashboard/_next/static/chunks/133rq7uo7d2_0.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"params":"$@3"}],[["$","script","script-0",{"src":"/fc-ai-dashboard/_next/static/chunks/0l8fbwcqtd8c5.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PPprbyLUR8s59nbyZqh72"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"params":"$@3"}],[["$","script","script-0",{"src":"/fc-ai-dashboard/_next/static/chunks/0l8fbwcqtd8c5.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Kivlv7ZqUn__lSGTOQNKY"}
 3:{"brand":"the-plug-drink"}
 6:null
