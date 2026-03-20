@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 3:I[97367,["/fc-ai-dashboard/_next/static/chunks/06g06ivdmyrq3.js","/fc-ai-dashboard/_next/static/chunks/00-csyj9a6t-x.js","/fc-ai-dashboard/_next/static/chunks/133rq7uo7d2_0.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"cUOK5EScrDFXysJxpp9RR"}
+0:{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PPprbyLUR8s59nbyZqh72"}
 5:null
 2:E{"digest":"NEXT_REDIRECT;replace;/operations/accountability;307;"}
